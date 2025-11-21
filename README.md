@@ -21,7 +21,7 @@ Cross-platform desktop application for managing traditional Kyrgyz recipes with 
 
 ```bash
 # Clone repository
-git clone https://github.com/[USERNAME]/kg-recipes.git
+git clone https://github.com/merinisamederova/kg-recipes.git
 
 # Install dependencies
 npm install
