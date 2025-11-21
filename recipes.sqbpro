@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="recipes.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="3"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="1551"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="recipes" custom_title="0" dock_id="2" table="4,7:mainrecipes"/><dock_state state="000000ff00000000fd0000000100000002000003e1000002e6fc0100000002fb000000160064006f0063006b00420072006f00770073006500310100000000000003e10000000000000000fb000000160064006f0063006b00420072006f00770073006500320100000000000003e10000012800ffffff000002680000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="recipes" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="29"/><column index="2" value="156"/><column index="3" value="93"/><column index="4" value="300"/><column index="5" value="300"/><column index="6" value="66"/><column index="7" value="42"/><column index="8" value="52"/><column index="9" value="70"/><column index="10" value="288"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1*">DELETE FROM recipes;
+
+INSERT INTO recipes (title, category, ingredients, instructions, cook_time, rating, author, favorite, image) VALUES 
+('Kyrgyz Beshbarmak', 'Main Course', 'Lamb, beef, or horse meat – 700 g (with bones preferred)
+Onions – 3 large (sliced into thin rings)
+Homemade egg noodles – 300 g (or wide flat pasta)
+Water – 2.5 liters
+Salt – to taste
+Black pepper – to taste
+Bay leaf – 2
+Fresh parsley or dill – for garnish
+Optional: boiled sausage-like kazy (horse meat sausage) – sliced', 'Place the meat into a large pot, cover with cold water, and bring to a gentle boil. Skim off the foam as it appears, then add salt, bay leaves, and black pepper. Simmer over low heat for 1.5 to 2 hours, until the meat becomes tender and easily separates from the bone. Remove the meat and keep it warm. Strain the broth and keep it hot. In a separate pot, cook the homemade noodles in some of the strained broth until soft but not mushy, then drain. In a pan, sauté the onion rings with a ladle of hot broth until soft and translucent — this will be the zhuush (onion sauce). To serve, arrange the noodles on a large platter, place the boiled meat (and kazy slices, if used) on top, and pour some of the hot onion sauce over everything. Sprinkle with herbs. Serve the remaining broth in bowls on the side. Traditionally eaten by hand — ''beshbarmak'' literally means ''five fingers''.', 150, 4.5, 'Nurgul', 1, '/static/images/dishes/beshbarmak.jpg'),
+
+('Kyrgyz Samsa', 'Snack', 'Lamb or beef – 400 g (finely chopped, not minced)
+Onions – 2 large (finely diced)
+All-purpose flour – 400 g
+Butter or margarine – 100 g (cold, cubed)
+Water – 150 ml (cold)
+Salt – 1 tsp for dough, plus to taste for filling
+Black pepper – to taste
+Cumin seeds – 1 tsp
+Sesame seeds – for topping (optional)
+Egg yolk – 1 (for brushing)', 'To prepare the dough, mix the flour and salt in a large bowl. Add the cold butter and rub it into the flour until crumbly. Gradually pour in cold water and knead into a firm dough. Wrap it in plastic and let it rest for 30 minutes. Meanwhile, prepare the filling: finely chop the meat (do not grind it), mix with diced onions, salt, black pepper, and cumin. Divide the dough into small balls, roll each out thinly, and brush lightly with oil or melted butter. Roll the dough into a log, slice into spirals, then roll each spiral flat again — this creates flaky layers. Place a spoonful of filling in the center, fold the edges to form a triangle or square, and seal well. Brush the tops with beaten egg yolk and sprinkle sesame seeds if desired. Bake on a parchment-lined tray at 200°C (390°F) for 25–30 minutes, until golden and crisp. Serve hot with tea or ayran.', 90, 4.9, 'Merinisa', 1, '/static/images/dishes/samsa.jpg'),
+
+('Kyrgyz Plov (Pilaf)', 'Main Course', 'Long-grain rice (such as basmati) – 300 g
+Lamb or beef – 400 g (cut into cubes)
+Carrots – 2 large (cut into thin strips)
+Onions – 2 medium (sliced)
+Garlic – 1 whole head (unpeeled, optional)
+Vegetable oil or lamb fat – 100 ml
+Water or broth – 500 ml (approx.)
+Salt – to taste
+Black pepper – to taste
+Cumin seeds – 1 tsp
+Barberries – 1 tbsp (optional)
+Chili or paprika – optional, to taste', 'Rinse the rice in cold water several times until the water runs clear, then soak it for 20–30 minutes. Heat the oil in a heavy-bottomed pot or kazan over medium-high heat. Add the meat and fry until browned on all sides. Add the sliced onions and cook until golden. Stir in the carrots and cook for another 5–7 minutes until they soften slightly. Season with salt, black pepper, and cumin. Pour in the hot water or broth to cover the meat and vegetables. Bring to a boil, then lower the heat and simmer for about 30 minutes until the meat is tender. Carefully add the soaked rice on top, spreading it evenly — do not stir. Add more water so that it covers the rice by about 1–2 cm. Place a whole head of garlic in the center if desired. Cook uncovered on medium heat until the water is mostly absorbed, then reduce the heat to low, cover tightly, and steam for 15–20 minutes. Remove from heat and let it rest for 10 minutes. Before serving, gently mix the rice with the meat and vegetables. Serve hot.', 90, 5.0, 'Aizada', 1, '/static/images/dishes/plov.jpg'),
+
+('Kyrgyz Oromo', 'Snack', 'Lamb or beef – 400 g (finely chopped, not minced)
+Onions – 2 large (finely diced)
+All-purpose flour – 400 g
+Butter or margarine – 100 g (cold, cubed)
+Water – 150 ml (cold)
+Salt – 1 tsp for dough, plus to taste for filling
+Black pepper – to taste
+Cumin seeds – 1 tsp
+Milk – 50 ml (for brushing)
+Sesame seeds – for topping (optional)', 'Prepare the dough by mixing flour and salt in a large bowl. Add cold butter and rub into the flour until crumbly. Slowly pour in cold water and knead into a firm dough. Wrap in plastic and let rest for 30 minutes. For the filling, finely chop the meat (do not grind), combine with diced onions, salt, black pepper, and cumin. Divide the dough into small balls, roll each out thinly, brush lightly with oil or melted butter. Roll the dough into a log, slice into spirals, then roll each spiral flat again to create layers. Place a spoonful of filling in the center, fold the edges over to form a triangle or square, and seal tightly. Brush with milk and sprinkle sesame seeds if desired. Bake on a parchment-lined tray at 200°C (390°F) for 25–30 minutes until golden and crisp. Serve hot with tea or ayran.', 90, 4.8, 'Aigul', 1, '/static/images/dishes/oromo.jpg'),
+
+('Kyrgyz Shorpo', 'Soup', 'Lamb or beef with bones – 500 g
+Potatoes – 3 medium (cut into cubes)
+Carrots – 2 (sliced)
+Onions – 1 large (sliced)
+Garlic – 2 cloves (minced)
+Salt – to taste
+Black pepper – to taste
+Bay leaf – 1
+Water – 1.5 liters
+Fresh herbs (parsley or dill) – for garnish', 'Place meat with bones into a large pot and cover with water. Bring to a boil, then reduce heat and simmer for 40–50 minutes, skimming foam from the surface. Add onions, garlic, carrots, and potatoes. Season with salt, black pepper, and bay leaf. Continue to simmer until vegetables are tender, about 20–25 minutes. Remove from heat, sprinkle with fresh herbs, and serve hot. Traditionally served with bread or flatbread.', 90, 5.0, 'Jyldyz', 1, '/static/images/dishes/shorpo.jpg'),
+
+('Kyrgyz Kazy', 'Charcuterie', 'Horse meat (preferably rib or fatty cuts) – 1 kg
+Horse fat – 250 g (finely chopped)
+Salt – 2 tsp
+Black pepper – 1 tsp
+Garlic – 2–3 cloves (minced)
+Natural sausage casing (intestines) – cleaned', 'Cut meat and fat into long strips about 1–2 cm thick. Mix with salt, black pepper, and minced garlic. Carefully stuff the mixture into the cleaned casing, making sausages about 25–30 cm long, and tie the ends. Hang in a cool, ventilated place for 1–2 days to dry slightly. Then, simmer the kazy gently in water for 20–30 minutes until cooked through. It can be sliced and served cold or lightly fried before serving. Traditionally enjoyed with bread, onions, and horse milk products.', 180, 3.9, 'Maira', 1, '/static/images/dishes/kazy.jpg'),
+
+('Kyrgyz Kuurdak', 'Main Dish', 'Lamb or beef – 500 g (cut into small cubes)
+Onions – 2 large (sliced)
+Potatoes – 3 medium (cut into cubes)
+Salt – to taste
+Black pepper – to taste
+Vegetable oil – 3 tbsp
+Garlic – 2 cloves (optional, minced)', 'Heat oil in a large skillet or cast-iron pan over medium heat. Add meat and fry until browned on all sides. Add onions and continue to cook until they soften and start to caramelize. Add potatoes, season with salt, pepper, and optional garlic. Cover and cook for 20–25 minutes, stirring occasionally, until potatoes are tender and meat is cooked through. Serve hot as a hearty main dish.', 60, 5.0, 'Aizada', 1, '/static/images/dishes/kuurdak.jpg'),
+
+('Kyrgyz Boorsok', 'Snack', 'All-purpose flour – 400 g
+Yeast – 7 g (dry)
+Sugar – 1 tsp
+Salt – 1 tsp
+Warm water – 150 ml
+Vegetable oil – for frying', 'Mix flour, salt, sugar, and dry yeast in a bowl. Gradually add warm water and knead into a soft dough. Cover and let rise for 1 hour. Roll the dough into a rectangle about 1 cm thick. Cut into small squares or diamonds. Heat oil in a deep pan and fry the pieces until golden brown on all sides. Drain on paper towels. Serve warm as a snack or with tea.', 90, 4.7, 'Aizada', 1, '/static/images/dishes/boorsok.jpg'),
+
+('Kyrgyz Kymyz', 'Beverage', 'Fresh mare''s milk – 1 liter
+Starter culture or previous batch of kymyz – 50 ml', 'Pour fresh mare''s milk into a clean container. Add starter culture or a small amount of previously fermented kymyz. Stir well and cover with a clean cloth. Keep at room temperature for 24–48 hours until it begins to ferment and develop a slightly sour taste. Stir once or twice during fermentation. Refrigerate after fermentation and serve chilled. Traditionally enjoyed as a refreshing and mildly alcoholic drink.', 1440, 3.6, 'Aizada', 1, '/static/images/dishes/kymyz.jpg'),
+
+('Kyrgyz Ashlyan-fu', 'Cold Dish', 'Wheat noodles – 200 g (boiled and cooled)
+Garcial – 2 cloves (minced)
+Vinegar – 2 tbsp
+Soy sauce – 1 tbsp
+Salt – to taste
+Water – 200 ml
+Cucumber or radish – 1 (optional, thinly sliced)
+Fresh herbs (cilantro or parsley) – for garnish', 'Boil noodles according to package instructions, rinse with cold water, and drain. In a bowl, mix minced garlic, vinegar, soy sauce, salt, and water to make the sauce. Pour the sauce over the cooled noodles. Add optional thinly sliced cucumber or radish for freshness. Garnish with fresh herbs and serve chilled. It''s a refreshing dish, perfect for hot days.', 30, 4.0, 'Aizada', 1, '/static/images/dishes/ashlan-fu.jpg');
+
+SELECT COUNT(*) FROM recipes;</sql><current_tab id="0"/></tab_sql></sqlb_project>

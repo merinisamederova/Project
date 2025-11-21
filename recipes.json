@@ -1,0 +1,204 @@
+[
+    {
+  "title": "Kyrgyz Beshbarmak",
+  "category": "Main Course",
+  "image": "/static/images/dishes/beshbarmak.jpg",
+  "ingredients": [
+    "Lamb, beef, or horse meat – 700 g (with bones preferred)",
+    "Onions – 3 large (sliced into thin rings)",
+    "Homemade egg noodles – 300 g (or wide flat pasta)",
+    "Water – 2.5 liters",
+    "Salt – to taste",
+    "Black pepper – to taste",
+    "Bay leaf – 2",
+    "Fresh parsley or dill – for garnish",
+    "Optional: boiled sausage-like kazy (horse meat sausage) – sliced"
+  ],
+  "instructions": "Place the meat into a large pot, cover with cold water, and bring to a gentle boil. Skim off the foam as it appears, then add salt, bay leaves, and black pepper. Simmer over low heat for 1.5 to 2 hours, until the meat becomes tender and easily separates from the bone. Remove the meat and keep it warm. Strain the broth and keep it hot. In a separate pot, cook the homemade noodles in some of the strained broth until soft but not mushy, then drain. In a pan, sauté the onion rings with a ladle of hot broth until soft and translucent — this will be the zhuush (onion sauce). To serve, arrange the noodles on a large platter, place the boiled meat (and kazy slices, if used) on top, and pour some of the hot onion sauce over everything. Sprinkle with herbs. Serve the remaining broth in bowls on the side. Traditionally eaten by hand — 'beshbarmak' literally means 'five fingers'.",
+  "cook_time": 150,
+  "rating": 4.5,
+  "author": "Nurgul",
+  "favorite": true
+},
+  {
+  "title": "Kyrgyz Samsa",
+  "category": "Snack",
+  "image": "/static/images/dishes/samsa.jpg",
+  "ingredients": [
+    "Lamb or beef – 400 g (finely chopped, not minced)",
+    "Onions – 2 large (finely diced)",
+    "All-purpose flour – 400 g",
+    "Butter or margarine – 100 g (cold, cubed)",
+    "Water – 150 ml (cold)",
+    "Salt – 1 tsp for dough, plus to taste for filling",
+    "Black pepper – to taste",
+    "Cumin seeds – 1 tsp",
+    "Sesame seeds – for topping (optional)",
+    "Egg yolk – 1 (for brushing)"
+  ],
+  "instructions": "To prepare the dough, mix the flour and salt in a large bowl. Add the cold butter and rub it into the flour until crumbly. Gradually pour in cold water and knead into a firm dough. Wrap it in plastic and let it rest for 30 minutes. Meanwhile, prepare the filling: finely chop the meat (do not grind it), mix with diced onions, salt, black pepper, and cumin. Divide the dough into small balls, roll each out thinly, and brush lightly with oil or melted butter. Roll the dough into a log, slice into spirals, then roll each spiral flat again — this creates flaky layers. Place a spoonful of filling in the center, fold the edges to form a triangle or square, and seal well. Brush the tops with beaten egg yolk and sprinkle sesame seeds if desired. Bake on a parchment-lined tray at 200°C (390°F) for 25–30 minutes, until golden and crisp. Serve hot with tea or ayran.",
+  "cook_time": 90,
+  "rating": 4.9,
+  "author": "Merinisa",
+  "favorite": true
+},
+ 
+ {
+  "title": "Kyrgyz Plov (Pilaf)",
+  "category": "Main Course",
+  "image": "/static/images/dishes/plov.jpg",
+  "ingredients": [
+    "Long-grain rice (such as basmati) – 300 g",
+    "Lamb or beef – 400 g (cut into cubes)",
+    "Carrots – 2 large (cut into thin strips)",
+    "Onions – 2 medium (sliced)",
+    "Garlic – 1 whole head (unpeeled, optional)",
+    "Vegetable oil or lamb fat – 100 ml",
+    "Water or broth – 500 ml (approx.)",
+    "Salt – to taste",
+    "Black pepper – to taste",
+    "Cumin seeds – 1 tsp",
+    "Barberries – 1 tbsp (optional)",
+    "Chili or paprika – optional, to taste"
+  ],
+  "instructions": "Rinse the rice in cold water several times until the water runs clear, then soak it for 20–30 minutes. Heat the oil in a heavy-bottomed pot or kazan over medium-high heat. Add the meat and fry until browned on all sides. Add the sliced onions and cook until golden. Stir in the carrots and cook for another 5–7 minutes until they soften slightly. Season with salt, black pepper, and cumin. Pour in the hot water or broth to cover the meat and vegetables. Bring to a boil, then lower the heat and simmer for about 30 minutes until the meat is tender. Carefully add the soaked rice on top, spreading it evenly — do not stir. Add more water so that it covers the rice by about 1–2 cm. Place a whole head of garlic in the center if desired. Cook uncovered on medium heat until the water is mostly absorbed, then reduce the heat to low, cover tightly, and steam for 15–20 minutes. Remove from heat and let it rest for 10 minutes. Before serving, gently mix the rice with the meat and vegetables. Serve hot.",
+  "cook_time": 90,
+  "rating": 5.0,
+  "author": "Aizada",
+  "favorite": true
+}, 
+    {
+  "title": "Kyrgyz Oromo",
+  "category": "Snack",
+  "image": "/static/images/dishes/oromo.jpg",
+  "ingredients": [
+    "Lamb or beef – 400 g (finely chopped, not minced)",
+    "Onions – 2 large (finely diced)",
+    "All-purpose flour – 400 g",
+    "Butter or margarine – 100 g (cold, cubed)",
+    "Water – 150 ml (cold)",
+    "Salt – 1 tsp for dough, plus to taste for filling",
+    "Black pepper – to taste",
+    "Cumin seeds – 1 tsp",
+    "Milk – 50 ml (for brushing)",
+    "Sesame seeds – for topping (optional)"
+  ],
+  "instructions": "Prepare the dough by mixing flour and salt in a large bowl. Add cold butter and rub into the flour until crumbly. Slowly pour in cold water and knead into a firm dough. Wrap in plastic and let rest for 30 minutes. For the filling, finely chop the meat (do not grind), combine with diced onions, salt, black pepper, and cumin. Divide the dough into small balls, roll each out thinly, brush lightly with oil or melted butter. Roll the dough into a log, slice into spirals, then roll each spiral flat again to create layers. Place a spoonful of filling in the center, fold the edges over to form a triangle or square, and seal tightly. Brush with milk and sprinkle sesame seeds if desired. Bake on a parchment-lined tray at 200°C (390°F) for 25–30 minutes until golden and crisp. Serve hot with tea or ayran.",
+  "cook_time": 90,
+  "rating": 4.8,
+  "author": "Aigul",
+  "favorite": true
+}, 
+{
+  "title": "Kyrgyz Shorpo",
+  "category": "Soup",
+  "image": "/static/images/dishes/shorpo.jpg",
+  "ingredients": [
+    "Lamb or beef with bones – 500 g",
+    "Potatoes – 3 medium (cut into cubes)",
+    "Carrots – 2 (sliced)",
+    "Onions – 1 large (sliced)",
+    "Garlic – 2 cloves (minced)",
+    "Salt – to taste",
+    "Black pepper – to taste",
+    "Bay leaf – 1",
+    "Water – 1.5 liters",
+    "Fresh herbs (parsley or dill) – for garnish"
+  ],
+  "instructions": "Place meat with bones into a large pot and cover with water. Bring to a boil, then reduce heat and simmer for 40–50 minutes, skimming foam from the surface. Add onions, garlic, carrots, and potatoes. Season with salt, black pepper, and bay leaf. Continue to simmer until vegetables are tender, about 20–25 minutes. Remove from heat, sprinkle with fresh herbs, and serve hot. Traditionally served with bread or flatbread.",
+  "cook_time": 90,
+  "rating": 5.0,
+  "author": "Jyldyz",
+  "favorite": true
+}, 
+
+  {
+  "title": "Kyrgyz Kazy",
+  "category": "Charcuterie",
+  "image": "/static/images/dishes/kazy.jpg",
+  "ingredients": [
+    "Horse meat (preferably rib or fatty cuts) – 1 kg",
+    "Horse fat – 250 g (finely chopped)",
+    "Salt – 2 tsp",
+    "Black pepper – 1 tsp",
+    "Garlic – 2–3 cloves (minced)",
+    "Natural sausage casing (intestines) – cleaned"
+  ],
+  "instructions": "Cut meat and fat into long strips about 1–2 cm thick. Mix with salt, black pepper, and minced garlic. Carefully stuff the mixture into the cleaned casing, making sausages about 25–30 cm long, and tie the ends. Hang in a cool, ventilated place for 1–2 days to dry slightly. Then, simmer the kazy gently in water for 20–30 minutes until cooked through. It can be sliced and served cold or lightly fried before serving. Traditionally enjoyed with bread, onions, and horse milk products.",
+  "cook_time": 180,
+  "rating": 3.9,
+  "author": "Maira",
+  "favorite": true
+}, 
+{
+  "title": "Kyrgyz Kuurdak",
+  "category": "Main Dish",
+  "image": "/static/images/dishes/kuurdak.jpg",
+  "ingredients": [
+    "Lamb or beef – 500 g (cut into small cubes)",
+    "Onions – 2 large (sliced)",
+    "Potatoes – 3 medium (cut into cubes)",
+    "Salt – to taste",
+    "Black pepper – to taste",
+    "Vegetable oil – 3 tbsp",
+    "Garlic – 2 cloves (optional, minced)"
+  ],
+  "instructions": "Heat oil in a large skillet or cast-iron pan over medium heat. Add meat and fry until browned on all sides. Add onions and continue to cook until they soften and start to caramelize. Add potatoes, season with salt, pepper, and optional garlic. Cover and cook for 20–25 minutes, stirring occasionally, until potatoes are tender and meat is cooked through. Serve hot as a hearty main dish.",
+  "cook_time": 60,
+  "rating": 5.0,
+  "author": "Aizada",
+  "favorite": true
+}, 
+{
+  "title": "Kyrgyz Boorsok",
+  "category": "Snack",
+  "image": "/static/images/dishes/boorsok.jpg",
+  "ingredients": [
+    "All-purpose flour – 400 g",
+    "Yeast – 7 g (dry)",
+    "Sugar – 1 tsp",
+    "Salt – 1 tsp",
+    "Warm water – 150 ml",
+    "Vegetable oil – for frying"
+  ],
+  "instructions": "Mix flour, salt, sugar, and dry yeast in a bowl. Gradually add warm water and knead into a soft dough. Cover and let rise for 1 hour. Roll the dough into a rectangle about 1 cm thick. Cut into small squares or diamonds. Heat oil in a deep pan and fry the pieces until golden brown on all sides. Drain on paper towels. Serve warm as a snack or with tea.",
+  "cook_time": 90,
+  "rating": 4.7,
+  "author": "Aizada",
+  "favorite": true
+}, 
+{
+  "title": "Kyrgyz Kymyz",
+  "category": "Beverage",
+  "image": "/static/images/dishes/kymyz.jpg",
+  "ingredients": [
+    "Fresh mare’s milk – 1 liter",
+    "Starter culture or previous batch of kymyz – 50 ml"
+  ],
+  "instructions": "Pour fresh mare’s milk into a clean container. Add starter culture or a small amount of previously fermented kymyz. Stir well and cover with a clean cloth. Keep at room temperature for 24–48 hours until it begins to ferment and develop a slightly sour taste. Stir once or twice during fermentation. Refrigerate after fermentation and serve chilled. Traditionally enjoyed as a refreshing and mildly alcoholic drink.",
+  "cook_time": 1440,
+  "rating": 3.6,
+  "author": "Aizada",
+  "favorite": true
+}, 
+{
+  "title": "Kyrgyz Ashlyan-fu",
+  "category": "Cold Dish",
+  "image": "/static/images/dishes/ashlan-fu.jpg",
+  "ingredients": [
+    "Wheat noodles – 200 g (boiled and cooled)",
+    "Garlic – 2 cloves (minced)",
+    "Vinegar – 2 tbsp",
+    "Soy sauce – 1 tbsp",
+    "Salt – to taste",
+    "Water – 200 ml",
+    "Cucumber or radish – 1 (optional, thinly sliced)",
+    "Fresh herbs (cilantro or parsley) – for garnish"
+  ],
+  "instructions": "Boil noodles according to package instructions, rinse with cold water, and drain. In a bowl, mix minced garlic, vinegar, soy sauce, salt, and water to make the sauce. Pour the sauce over the cooled noodles. Add optional thinly sliced cucumber or radish for freshness. Garnish with fresh herbs and serve chilled. It’s a refreshing dish, perfect for hot days.",
+  "cook_time": 30,
+  "rating": 4.0,
+  "author": "Aizada",
+  "favorite": true
+} 
+]
