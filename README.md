@@ -1,4 +1,4 @@
-# 🍳 Merinisaq — Recipe Website
+# 🍳 KG Recipes — Recipe Website
 
 **Interactive website for searching and saving recipes.**  
 Built with **JavaScript (frontend)** and **Python Flask (backend prototype)**.  
