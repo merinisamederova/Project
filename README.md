@@ -1,39 +1,31 @@
-# 🍳 KG Recipes — Recipe Website
+# 🍽️ KG Recipes - Traditional Kyrgyz Cuisine
 
-**Interactive website for searching and saving recipes.**  
-Built with **JavaScript (frontend)** and **Python Flask (backend prototype)**.  
-Currently implemented as a responsive web version, planned to evolve into a full web application.
-
----
+Cross-platform desktop application for managing traditional Kyrgyz recipes with database storage, REST API, and modern GUI interface.
 
 ## 🚀 Features
-- Search recipes by name or ingredients  
-- Add and save favorite recipes  
-- Responsive and accessible design  
-- Prototype for user authentication (planned for next release)
 
----
+- **11 Traditional Recipes** (Beshbarmak, Plov, Samsa, etc.)
+- **Smart Search & Filter** by ingredients and categories
+- **Full CRUD Operations** - Create, Read, Update, Delete
+- **SQLite Database** with REST API
+- **Electron Desktop App** - Windows, Mac, Linux
 
-## 🛠️ Technologies
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend (planned):** Python Flask  
-- **Database (planned):** SQLite  
-- **Tools:** Git, GitHub, VS Code, Figma
+## 🛠️ Technology Stack
 
----
+- **Frontend:** Electron, HTML, CSS, JavaScript
+- **Backend:** Python, Flask, SQLAlchemy
+- **Database:** SQLite
+- **Architecture:** REST API, Multi-module
 
-## 💡 Future development
-- Convert website into a full-featured web app (Flask + REST API)  
-- Add user accounts and login system  
-- Recipe image uploads  
-- API for mobile version  
+## 📦 Installation
 
----
+```bash
+# Clone repository
+git clone https://github.com/[USERNAME]/kg-recipes.git
 
-## 👩‍💻 Author
-**Mederova Merinisa**  
-Junior Frontend / Fullstack Developer (JavaScript / Python)  
-📩 Email: mederovamerinisa!@gmail.com  
-🌍 https://bishkek.headhunter.kg/resume/d3726063ff0f9d02e70039ed1f755a52315272
-# merinisaq
-Interactive web app for searching and saving recipes. Built with JavaScript (frontend) and Python Flask (backend). Includes user authentication and recipe database.
+# Install dependencies
+npm install
+pip install -r requirements.txt
+
+# Run application
+npm start
