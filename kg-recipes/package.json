@@ -1,0 +1,15 @@
+{
+  "name": "kyrgyz-cuisine-desktop",
+  "version": "1.0.0",
+  "description": "Traditional Kyrgyz recipes desktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Aizada",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^32.0.0"
+  }
+}
+
